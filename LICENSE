@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+------------------------------------------------------------------------
+Scholarly citation request (not a condition of the MIT License)
+------------------------------------------------------------------------
+
+If you use FLEX-FL in your research, please cite:
+
+Sad, C., Masouros, D., Retsinas, G., Soudris, D., & Siozios, K. (2026).
+FLEX: Flexible federated learning with asynchronous peer-to-peer
+communication and adaptive aggregation.
+IEEE Transactions on Parallel and Distributed Systems.
+
+This citation request is voluntary and does not modify the MIT License above.
