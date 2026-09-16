@@ -249,3 +249,11 @@ Original FLEX-FL contributions are licensed under the [MIT License](LICENSE).
 Copyright (c) 2026 C. Sad, D. Masouros, G. Retsinas, D. Soudris, and K. Siozios.
 
 The adapted ResNet and VGG implementations retain their upstream Apache-2.0 and MIT terms, respectively. See [Third-party notices](THIRD_PARTY_NOTICES.md) and the full license texts in [licenses/](licenses/). External datasets and the associated paper are governed by their own terms.
+
+
+If you use FLEX-FL in your research, please cite :) :
+
+Sad, C., Masouros, D., Retsinas, G., Soudris, D., & Siozios, K. (2026).
+FLEX: Flexible federated learning with asynchronous peer-to-peer
+communication and adaptive aggregation.
+IEEE Transactions on Parallel and Distributed Systems.
